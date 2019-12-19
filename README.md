@@ -1,1 +1,1 @@
-# project_1
+Informe de la práctica
